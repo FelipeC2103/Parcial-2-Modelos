@@ -1,0 +1,11 @@
+edu\models\manos\Poker.class
+edu\models\manos\CartaAlta.class
+edu\models\manos\Trio.class
+edu\models\main\Main.class
+edu\models\manos\EscaleraDeColor.class
+edu\models\manos\Escalera.class
+edu\models\cartas\CartaGenerica.class
+edu\models\manos\DoblePar.class
+edu\models\manos\Par.class
+edu\models\manos\Mano.class
+edu\models\manos\Color.class
